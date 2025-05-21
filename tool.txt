@@ -1,2 +1,2 @@
 Appium wdio
-appium server to be added
+appium servers to be added
